@@ -1,0 +1,11 @@
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\Log4NetToDBTest.exe.config
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\Log4NetToDBTest.exe
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\Log4NetToDBTest.pdb
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\log4net.dll
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\log4net.xml
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\obj\Debug\Log4NetToDBTest.csproj.SuggestedBindingRedirects.cache
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\obj\Debug\Log4NetToDBTest.csproj.CoreCompileInputs.cache
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\obj\Debug\Log4NetToDBTest.csproj.CopyComplete
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\obj\Debug\Log4NetToDBTest.exe
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\obj\Debug\Log4NetToDBTest.pdb
+F:\Learning\Log4NetToDB\Log4NetToDBTest\Log4NetToDBTest\bin\Debug\ConfigFile\Log4NetToDB.config
